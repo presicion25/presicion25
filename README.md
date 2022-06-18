@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @presicion25
 - 👀 I’m interested in python programming and Cyber Security 
-- 🌱 I’m currently learning python and will try for the entry level python certification PCEP
+- 🌱 I’m currently learning python and it has peaked my interest
 - 💞️ 
 - 📫 How to reach me presicion25@tampabay.rr.com
 
