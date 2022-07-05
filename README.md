@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Louis
-- 👀 I’m interested in python programming and Cyber Security.
+- 👀 I’m interested in IT, python programming and Cyber Security.
 - 🌱 I’m currently learning python and it has peaked my interest as well as enhancing my knowldege of Cyber security.
 - 💞️ 
 - Email: presicion25@tampabay.rr.com
