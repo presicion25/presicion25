@@ -1,4 +1,4 @@
-<h2>Hello, I'm Louis, an IT enthusiast and aspiring <a href="https://www.linkedin.com/in/louisperez1978/">IT Professional</a></h2>
+<h2>Hello I'm Louis, an IT enthusiast and aspiring <a href="https://www.linkedin.com/in/louisperez1978/">IT Professional</a></h2>
 
 <h2>👨‍💻 Information Technology Projects (Works in Progress):</h2>
 
@@ -15,6 +15,7 @@
 
 <h2>🤳Connect with me:</h2>
 
+<h2>My <a href="https://exemplarysecurity.com/">Personal Website</a></h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
