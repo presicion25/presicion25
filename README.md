@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects (Works in Progress):</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System) In the works......</b>
   - osTicket: Prerequisites and Installation
   - osTicket: Post-Installation Configuration
   - osTicket: Ticket Lifecycle Examples
