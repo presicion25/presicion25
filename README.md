@@ -9,7 +9,7 @@
   
 - <b>Microsoft Azure</b>
   - Configuring On-premises Active Directory within Azure VMs
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols ](https://github.com/presicion25/Azure-Networks-and-Protocols)
 
 - <b>To Be Determined</b>
 
