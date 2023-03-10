@@ -16,7 +16,7 @@
 
 <h2>Docker Synology NAS Webtool Tutorials (In progress):<h2>
   
-  - [Open Budgeteer](https://github.com/presicion25/open-budgeteer/README.md](https://github.com/presicion25/open-budgeteer.git)
+  - [Open Budgeteer](https://github.com/presicion25/open-budgeteer.git)
    
 <h2>🤳Connect with me:</h2>
 
