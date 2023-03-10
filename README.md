@@ -16,11 +16,10 @@
 
 <h2>Docker Synology NAS Webtool Tutorials (In progress)</a><h2>
 
-  <p align="center">
+ <p>align="center">
 <img src="[https://imgur.com/RTZL0Ru.png alt](https://i.imgur.com/eRtRohL.png)="Synology Docker Webtool Tutorials"/>
 </p>
-  
-  
+   
 <h2>🤳Connect with me:</h2>
 
 <h2>My <a href="https://exemplarysecurity.com/">Personal Website</a></h2>
