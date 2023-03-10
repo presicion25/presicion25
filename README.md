@@ -12,7 +12,7 @@
   - [Azure Virtual Machines Traffic Inspection](https://github.com/presicion25/Azure-Networks-and-Protocols)
 
 - <b>Multimedia</b>
--   [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
+  -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
 
 <h2>Docker Synology NAS Webtool Tutorials (In progress):<h2>
   
