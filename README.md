@@ -14,8 +14,13 @@
 - <b>Multimedia</b>
 -   [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
 
-<h2>[Docker Synology NAS Webtool Tutorials (In progress)](https://i.imgur.com/eRtRohL.png)</a><h2>
+<h2>Docker Synology NAS Webtool Tutorials (In progress)</a><h2>
 
+  <p align="center">
+<img src="[https://i.imgur.com/pU5A58S.png](https://i.imgur.com/eRtRohL.png)" alt="Microsoft Active Directory Logo"/>
+</p>
+  
+  
 <h2>🤳Connect with me:</h2>
 
 <h2>My <a href="https://exemplarysecurity.com/">Personal Website</a></h2>
