@@ -16,7 +16,7 @@
 
 <h2>Docker Synology NAS Webtool Tutorials (In progress)</a><h2>
 
- <p>align="center">
+ <p align="center">
 <img src="[https://imgur.com/RTZL0Ru.png alt](https://i.imgur.com/eRtRohL.png)="Synology Docker Webtool Tutorials"/>
 </p>
    
