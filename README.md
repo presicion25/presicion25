@@ -1,8 +1,8 @@
 <h2>Hello I'm Louis, an IT enthusiast and aspiring <a href="https://www.linkedin.com/in/louisperez1978/">IT Professional</a></h2>
 
-<h2>👨‍💻 Information Technology Projects (Works in Progress):</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
-- <b>osTicket (Help Desk Ticketing System) In the works......</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/presicion25/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/presicion25/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/presicion25/osTicket-Ticket-Lifecycle-Examples)
