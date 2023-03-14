@@ -21,7 +21,7 @@
   <br />
   <br />
    
-<h2>🤳Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 <h2>My <a href="https://exemplarysecurity.com/">Personal Website</a></h2>
 
