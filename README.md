@@ -16,7 +16,7 @@
   - [Nessus Essentials Basic Scan](https://github.com/presicion25/Tenable-Nessus-Basic-Scan)
 
 
-<b>Python</b>
+- <b>Python</b>
   
  - [Fortune Cookie](https://github.com/presicion25/Python-Projects/tree/main/Fortune%20Cookie)
   
