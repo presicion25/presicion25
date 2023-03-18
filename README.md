@@ -28,7 +28,7 @@
 
   -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
 
-<h2>Synology NAS (Docker) Webtools<h2>
+<h2>Synology NAS Projects<h2>
   
 -    [Open Budgeteer](https://github.com/presicion25/open-budgeteer)
   <br />
