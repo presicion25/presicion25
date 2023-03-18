@@ -24,7 +24,7 @@
   
   
 
-<h2>Multimedia</h2>
+<h2>Multimedia Projects</h2>
 
   -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
 
