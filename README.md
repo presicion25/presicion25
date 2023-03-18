@@ -17,10 +17,10 @@
 
 
 - <b>Python</b>
-  - [Fortune Cookie](https://github.com/presicion25/Python-Projects/tree/main/Fortune%20Cookie)
-  - [Guessing Game](https://github.com/presicion25/Python-Projects/tree/main/Guessing%20Game)
-  - [Mad Lib](https://github.com/presicion25/Python-Projects/tree/main/MadLib)
-  - [Password Generator](https://github.com/presicion25/Python-Projects/tree/main/Password%20Generator)
+  - [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
+  - [Guessing Game](https://github.com/presicion25/python-projects/blob/main/guessinggame.py)
+  - [Mad Lib](https://github.com/presicion25/python-projects/blob/main/madlib.py)
+  - [Password Generator](https://github.com/presicion25/python-projects/blob/main/passwordgenerator.py)
   
   
 
