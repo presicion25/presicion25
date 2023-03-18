@@ -30,8 +30,8 @@
 
 <h2>Synology NAS Projects<h2>
   
-  -  [Open Budgeteer (Web App)](https://github.com/presicion25/open-budgeteer)
-  -  [Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)
+  -  <b>[Open Budgeteer (Web App)](https://github.com/presicion25/open-budgeteer)</b>
+  -  <b>[Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)</b>
   <br />
   <br />
    
