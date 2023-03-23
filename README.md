@@ -16,7 +16,7 @@
   - [Nessus Essentials Basic Scan](https://github.com/presicion25/Tenable-Nessus-Basic-Scan)
 
 
-- <b>Python</b>
+- <b>[Python Projects](https://github.com/presicion25/python-projects)</b>
   - [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
   - [Guessing Game](https://github.com/presicion25/python-projects/blob/main/guessinggame.py)
   - [Mad Lib](https://github.com/presicion25/python-projects/blob/main/madlib.py)
