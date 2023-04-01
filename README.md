@@ -21,6 +21,7 @@
   - [Guessing Game](https://github.com/presicion25/python-projects/blob/main/guessinggame.py)
   - [Mad Lib](https://github.com/presicion25/python-projects/blob/main/madlib.py)
   - [Password Generator](https://github.com/presicion25/python-projects/blob/main/passwordgenerator.py)
+  - [Weather API](https://github.com/presicion25/weather-api)
   
   
 
