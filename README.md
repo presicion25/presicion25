@@ -10,6 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/presicion25/Active-Directory-Configuration/blob/ba179ad59c32037972597371f3f31f61fc6277f1/README.md)
   - [Azure Virtual Machines Traffic Inspection](https://github.com/presicion25/Azure-Networks-and-Protocols)
+  - [Azure Cloud SOC - Coming Soon......](https://github.com/presicion25/Azure-Cloud-SOC)
 
 - <b>Tenable Nessus</b>
 
