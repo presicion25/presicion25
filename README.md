@@ -13,7 +13,7 @@
   - [Azure Active Directory Overview (User & Group Creation/Access Management Configuration)](https://github.com/presicion25/Azure-AD-Overview)
   - [Azure Active Directory SecOps Demonstration](https://github.com/presicion25/Azure-Sec-Ops)
   - [Azure KQL Demonstration](https://github.com/presicion25/Azure-KQL-Demo)
-  - [Azure Cloud SOC - Coming Soon......](https://github.com/presicion25/Azure-Cloud-SOC)
+  - [Azure Cloud SOC](https://github.com/presicion25/Azure-Cloud-SOC)
 
 - <b>Tenable Nessus</b>
 
