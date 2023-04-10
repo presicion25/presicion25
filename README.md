@@ -14,6 +14,7 @@
   - [Azure Active Directory SecOps Demonstration](https://github.com/presicion25/Azure-Sec-Ops)
   - [Azure KQL Demonstration](https://github.com/presicion25/Azure-KQL-Demo)
   - [Azure Cloud SOC and HoneyNet](https://github.com/presicion25/Azure-Cloud-SOC)
+  - [Azure Sentinel Incident Response Investigation](https://github.com/presicion25/Azure-Brute-Force-Incident-Investigation)
 
 - <b>Tenable Nessus</b>
 
