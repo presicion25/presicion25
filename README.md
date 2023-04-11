@@ -1,4 +1,5 @@
-<h2>Hello I'm Louis, an IT and Cyber Security enthusiast and aspiring <a href="https://www.linkedin.com/in/louisperez1978/">IT Professional</a></h2>
+
+<h2>Hello I'm Louis, an IT and Cyber Security enthusiast and aspiring IT Professional</h2>
 
 <h2>🤳 Connect with Me 
 
