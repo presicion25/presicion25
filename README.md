@@ -1,6 +1,8 @@
 
 <h2>Hello I'm Louis, an IT and Cyber Security enthusiast and aspiring IT Professional</h2>
 
+![Exemplaey Security(1)](https://imgur.com/pglpuX2.png)
+
 <h2>🤳 Connect with Me 
 
  -  <b>[My Website](https://exemplarysecurity.com) 
