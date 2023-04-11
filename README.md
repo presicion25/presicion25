@@ -41,14 +41,10 @@
   -  <b>[Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)</b>
   <br />
   <br />
-   
-<h2>🤳 Connect with me:</h2>
+  
+  
+<h2>🤳 Connect with Me 
 
-<h2>My <a href="https://exemplarysecurity.com/">Personal Website</a></h2>
+ -  <b>[My Website](https://exemplarysecurity.com) 
+ -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
 
-[<img align="left" alt="Louis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/louisperez1978/
