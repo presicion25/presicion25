@@ -1,6 +1,6 @@
 ![Exemplary Security(1)](https://imgur.com/pglpuX2.png)
 
-<h2>Hello I'm Louis, an IT and Cyber Security enthusiast and aspiring IT Professional</h2>
+<h2>Hello I'm Louis, An IT and Cyber Security Enthusiast and Aspiring IT Professional</h2>
 
 <h2>🤳 Connect with Me 
 
