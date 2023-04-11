@@ -1,5 +1,13 @@
 <h2>Hello I'm Louis, an IT and Cyber Security enthusiast and aspiring <a href="https://www.linkedin.com/in/louisperez1978/">IT Professional</a></h2>
 
+<h2>🤳 Connect with Me 
+
+ -  <b>[My Website](https://exemplarysecurity.com) 
+ -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
+ <br />
+ <br />
+
+
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -42,9 +50,3 @@
   <br />
   <br />
   
-  
-<h2>🤳 Connect with Me 
-
- -  <b>[My Website](https://exemplarysecurity.com) 
- -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
-
