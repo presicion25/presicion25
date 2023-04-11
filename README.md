@@ -25,6 +25,7 @@
   - [Azure KQL Demonstration](https://github.com/presicion25/Azure-KQL-Demo)
   - [Azure Cloud SOC and HoneyNet](https://github.com/presicion25/Azure-Cloud-SOC)
   - [Azure Sentinel Incident Response Investigation](https://github.com/presicion25/Azure-Brute-Force-Incident-Investigation)
+  - [Fake Malware Generation in an Azure VM](https://github.com/presicion25/Fake-Malware-Generation-in-Powershell)
 
 - <b>Tenable Nessus</b>
 
