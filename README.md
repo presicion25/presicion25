@@ -46,13 +46,13 @@
   
   
 
-<h2>Multimedia Projects</h2>
+<h2>&#9738; Multimedia Projects</h2>
 
   -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
  <br />
  <br />
 
-<h2>Synology NAS Projects<h2/>
+<h2>&#9861; Synology NAS Projects<h2/>
   
   - [Open Budgeteer (Web App)](https://github.com/presicion25/open-budgeteer)
   - [Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)
