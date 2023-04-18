@@ -33,7 +33,7 @@
  
 - <b>Splunk<b/>
  
-  - [Creating a Data Chart](https://github.com/presicion25/Splunk-Chart-Creation)
+  - [Creating a Basic Chart](https://github.com/presicion25/Splunk-Chart-Creation)
 
 <h2> 💻Software Projects:</h2>
 
