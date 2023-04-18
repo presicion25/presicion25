@@ -35,7 +35,7 @@
  
   - [Creating a Basic Chart](https://github.com/presicion25/Splunk-Chart-Creation)
 
-<h2> 💻Software Projects:</h2>
+<h2>💻Software Projects</h2>
 
 - <b>[Python Projects](https://github.com/presicion25/python-projects)</b>
   - [Fortune Cookie](https://github.com/presicion25/python-projects/blob/main/FortuneCookie.py)
@@ -49,11 +49,13 @@
 <h2>Multimedia Projects</h2>
 
   -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
+ <br />
+ <br />
 
-<h2>Synology NAS Projects<h2>
+<h2>Synology NAS Projects<h2/>
   
-  -  <b>[Open Budgeteer (Web App)](https://github.com/presicion25/open-budgeteer)</b>
-  -  <b>[Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)</b>
+  - [Open Budgeteer (Web App)](https://github.com/presicion25/open-budgeteer)
+  - [Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)
   <br />
   <br />
   
