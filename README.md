@@ -30,6 +30,9 @@
 - <b>Tenable Nessus</b>
 
   - [Nessus Essentials Basic Scan](https://github.com/presicion25/Tenable-Nessus-Basic-Scan)
+ 
+- <b>Splunk<b/>
+  - [Creating a Chart in Splunk[{(https://github.com/presicion25/Splunk-Chart-Creation)
 
 <h2> 💻Software Projects:</h2>
 
