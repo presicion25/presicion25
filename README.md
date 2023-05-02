@@ -26,14 +26,24 @@
   - [Azure Cloud SOC and HoneyNet](https://github.com/presicion25/Azure-Cloud-SOC)
   - [Azure Sentinel Incident Response Investigation](https://github.com/presicion25/Azure-Brute-Force-Incident-Investigation)
   - [Fake Malware Generation in an Azure VM](https://github.com/presicion25/Fake-Malware-Generation-in-Powershell)
+ 
+- <b>Linux</b>
+ 
+  - [Hunxploit04 (OSINT Instagram Tool)](https://github.com/presicion25/Hunxploit04)
+ <br />
+ <br />
 
 - <b>Tenable Nessus</b>
 
   - [Nessus Essentials Basic Scan](https://github.com/presicion25/Tenable-Nessus-Basic-Scan)
+ <br />
+ <br />
  
 - <b>Splunk<b/>
  
   - [Creating a Basic Chart](https://github.com/presicion25/Splunk-Chart-Creation)
+<br />
+<br />
 
 <h2>💻Software Projects</h2>
 
