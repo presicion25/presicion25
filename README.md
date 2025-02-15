@@ -1,6 +1,6 @@
 ![Content Logic Dynamics](https://imgur.com/ZEGMIkU.png)
 
-<h2>Hello I'm Louis, an IT, AI and Graphic Design Enthusiast</h2>
+<h2>Hello I'm Louis, an AI Enthusiast and Content Creator</h2>
 
 <h2>🤳 Connect with Me 
 
