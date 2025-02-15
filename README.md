@@ -4,7 +4,7 @@
 
 <h2>🤳 Connect with Me 
 
- -  <b>[My Website](https://exemplarysecurity.com) 
+ -  <b>[My Website](https://contentlogicdynamics.tech/) 
  -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
  <br />
  <br />
