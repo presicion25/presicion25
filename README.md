@@ -1,4 +1,4 @@
-![Exemplary Security(1)](https://imgur.com/a/mUweCIt)
+![Content Logic Dynamics](https://imgur.com/a/mUweCIt)
 
 <h2>Hello I'm Louis, an IT, AI and Graphic Design Enthusiast</h2>
 
