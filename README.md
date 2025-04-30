@@ -6,6 +6,8 @@
 
  -  <b>[My Website](https://contentlogicdynamics.tech/) 
  -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
+ -  <b>[Substack](https://substack.com/@presicion25/)
+ -  <b>[Medium](https://medium.com/@presicion25/)
  <br />
  <br />
 
