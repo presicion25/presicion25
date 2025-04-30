@@ -1,6 +1,6 @@
 ![Content Logic Dynamics](https://imgur.com/ZEGMIkU.png)
 
-<h2>Hello I'm Louis, an AI Enthusiast and Content Creator</h2>
+<h2>Hello I'm Louis, I'm an AI & Technology Enthusiast. Currently into AI automations and how they can help businesses grow, save time and increase ROI.</h2>
 
 <h2>🤳 Connect with Me 
 
