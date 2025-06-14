@@ -1,4 +1,6 @@
-![Content Logic Dynamics](https://ibb.co/xS6n7Yjw)
+<p>
+<img src="https://ibb.co/xS6n7Yjw alt"Resource Group"/?
+</p>
 
 <h2>Hello I'm Louis, an automations architect. Currently into AI automations and how they can help businesses grow, save time and increase ROI. This profile is a work in progress......</h2>
 
