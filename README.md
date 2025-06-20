@@ -17,10 +17,6 @@
 
 - [Trello Onboarding Automation](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
-
-<h2>&#9738; Multimedia Projects</h2>
-
-  -  [Hand Brake Tutorial](https://github.com/presicion25/Hand-Brake)
  <br />
  <br />
 
