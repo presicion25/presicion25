@@ -17,6 +17,8 @@
 
 - [Trello Onboarding Automation](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
+- [Lead Nurture Strategy Automation](https://github.com/presicion25/lead-nurture-automation)
+
  <br />
  <br />
 
