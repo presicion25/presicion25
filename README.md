@@ -13,7 +13,7 @@
  <br />
 
 
-<h2>💻Automation Projects (More to Come.......)</h2>
+<h2>💻:robot:Automation Projects (More to Come.......)</h2>
 
 - [Trello Onboarding Automation](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
