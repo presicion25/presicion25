@@ -15,11 +15,11 @@
 
 <h2>🤖 Automation Projects (More to Come.......)</h2>
 
-- [Trello Onboarding Automation][Make.com](https://github.com/presicion25/trello-onboarding-automation/tree/main)
+- [Trello Onboarding Automation - Make.com](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
-- [Lead Nurture Strategy Automation][n8n](https://github.com/presicion25/lead-nurture-automation)
+- [Lead Nurture Strategy Automation - n8n](https://github.com/presicion25/lead-nurture-automation)
 
-- [Client Onboarding Automation][n8n](https://github.com/presicion25/client-onboarding-n8n/tree/main)
+- [Client Onboarding Automation - n8n](https://github.com/presicion25/client-onboarding-n8n/tree/main)
 
  <br />
  <br />
