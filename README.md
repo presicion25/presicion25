@@ -19,6 +19,8 @@
 
 - [Lead Nurture Strategy Automation](https://github.com/presicion25/lead-nurture-automation)
 
+- [Client Onboarding Automation](https://github.com/presicion25/client-onboarding-n8n/tree/main)
+
  <br />
  <br />
 
