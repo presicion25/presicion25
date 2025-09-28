@@ -23,6 +23,8 @@
 
 - [Smart Candidate Screening - n8n](https://github.com/presicion25/smart-candidate-screening)
 
+- [Lead Capture Automation - n8n](https://github.com/presicion25/lead-capture-automation)
+
  <br />
  <br />
 
