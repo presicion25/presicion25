@@ -21,6 +21,8 @@
 
 - [Client Onboarding Automation - n8n](https://github.com/presicion25/client-onboarding-n8n/tree/main)
 
+- [Smart Candidate Screening - n8n](https://github.com/presicion25/smart-candidate-screening)
+
  <br />
  <br />
 
