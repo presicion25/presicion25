@@ -15,7 +15,7 @@
 
 <h2>🤖 Automation Projects (More to Come.......)</h2>
 
-- [Trello Onboarding Automation - Make.com](https://github.com/presicion25/trello-onboarding-automation/tree/main)
+- [Hiring Workflow Automation - n8n](https://github.com/presicion25/hiring-workflow)
 
 - [Lead Nurture Strategy Automation - n8n](https://github.com/presicion25/lead-nurture-automation)
 
@@ -24,6 +24,8 @@
 - [Smart Candidate Screening - n8n](https://github.com/presicion25/smart-candidate-screening)
 
 - [Lead Capture Automation - n8n](https://github.com/presicion25/lead-capture-automation)
+
+- [Trello Onboarding Automation - Make.com](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
  <br />
  <br />
