@@ -30,6 +30,14 @@
  <br />
  <br />
 
+ </h2>💻 IT Projects
+
+- [Azure KQL Demonstration](https://github.com/presicion25/Azure-KQL-Demo)
+
+- [Powershell Fake Malware Generation](https://github.com/presicion25/Fake-Malware-Generation-in-Powershell)
+
+
+
 <h2>&#9861; Synology NAS Projects<h2/>
   
 - [Storage Pool Expansion](https://github.com/presicion25/Synology-Storage-Pool-Drive-Addition)
