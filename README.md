@@ -27,15 +27,6 @@
 
 - [Trello Onboarding Automation - Make.com](https://github.com/presicion25/trello-onboarding-automation/tree/main)
 
-- Azure Labs:
-  - [Azure - VM MSSQL Install & Vulnerability Creation](https://vimeo.com/815368596?share=copy&fl=sv&fe=ci)
-  - [Precursor to Security Ops (Failed Authentication and Log Observation](https://vimeo.com/815395656?share=copy&fl=sv&fe=ci)
- 
-- Azure Active Directory:
- - [Part 1](https://vimeo.com/814446209)
- - [Part 2](https://vimeo.com/814445455?share=copy&fl=sv&fe=ci)
- - [Part 3](https://vimeo.com/814445527?share=copy&fl=sv&fe=ci)
-
 
  <br />
  <br />
@@ -57,6 +48,16 @@
 - [Adding New Users to Remote Desktop](https://vimeo.com/805195500?share=copy&fl=sv&fe=ci)
 
 - [Adding VM1 to Domain & Changing Its DNS](https://vimeo.com/805195531?share=copy&fl=sv&fe=ci)
+
+- Azure Labs:
+  - [Azure - VM MSSQL Install & Vulnerability Creation](https://vimeo.com/815368596?share=copy&fl=sv&fe=ci)
+  - [Precursor to Security Ops (Failed Authentication and Log Observation](https://vimeo.com/815395656?share=copy&fl=sv&fe=ci)
+ 
+- Azure Active Directory:
+ - [Part 1](https://vimeo.com/814446209)
+ - [Part 2](https://vimeo.com/814445455?share=copy&fl=sv&fe=ci)
+ - [Part 3](https://vimeo.com/814445527?share=copy&fl=sv&fe=ci)
+
 
 <br />
 <br />
