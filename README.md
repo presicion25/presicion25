@@ -1,7 +1,7 @@
 
 ![Content Logic Dynamics](https://github.com/user-attachments/assets/2eaee7ff-3704-4311-b019-53acb73794a5)
 
-<h2>Hello I'm Louis, an automations architect. Currently into task automations and how they can help businesses grow, save time and increase ROI. This profile is a work in progress......</h2>
+<h2>Hello I'm Louis, an automations architect and IT enthusiast. Currently into task automations and how they can help businesses grow, save time and increase ROI. This profile is a work in progress......</h2>
 
 <h2>🤳 Connect with Me 
 
