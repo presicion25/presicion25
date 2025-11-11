@@ -9,6 +9,7 @@
  -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
  -  <b>[X](https://x.com/presicion24)
  -  <b>[Instagram](https://www.instagram.com/presicion26/)
+ -  <b>[My Content Creation Site](https://contentlogicdynamics.tech/)
  <br />
  <br />
 
