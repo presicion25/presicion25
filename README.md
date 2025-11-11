@@ -36,7 +36,17 @@
 
 - [Powershell Fake Malware Generation](https://github.com/presicion25/Fake-Malware-Generation-in-Powershell)
 
-- [Active Directory Install](https://vimeo.com/805195556?share=copy&fl=sv&fe=ci)
+- [Azure Active Directory Install](https://vimeo.com/805195556?share=copy&fl=sv&fe=ci)
+
+- [Creating a New Active Directory User in an Admin Group](https://vimeo.com/805195660?share=copy&fl=sv&fe=ci)
+
+- [Making a User a Domain Admin](https://vimeo.com/805195685?share=copy&fl=sv&fe=ci)
+
+- [Creating New Users with Powershell](https://vimeo.com/805195462?share=copy&fl=sv&fe=ci)
+
+- [Adding New Users to Remote Desktop](https://vimeo.com/805195500?share=copy&fl=sv&fe=ci)
+
+- [Adding VM1 to Domain & Changing Its DNS](https://vimeo.com/805195531?share=copy&fl=sv&fe=ci)
 
 <br />
 <br />
