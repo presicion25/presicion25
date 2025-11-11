@@ -58,7 +58,7 @@
   - [Part 2](https://vimeo.com/814445455?share=copy&fl=sv&fe=ci)
   - [Part 3](https://vimeo.com/814445527?share=copy&fl=sv&fe=ci)
 
-- Azure Logging and Monitoring
+- Azure Logging and Monitoring:
   - [GEO IP Data Ingestion + Log Analytcis](https://vimeo.com/815856773?share=copy&fl=sv&fe=ci)
   - [KQL Deep Dive](https://vimeo.com/815713640?share=copy&fl=sv&fe=ci)
   - [Subscription Level Logging](https://vimeo.com/815858355?share=copy&fl=sv&fe=ci)
