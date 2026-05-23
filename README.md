@@ -5,11 +5,10 @@
 
 <h2>🤳 Connect with Me 
 
- -  <b>[My Website](https://contentlogicdynamics.com/) 
  -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
  -  <b>[X](https://x.com/presicion24)
- -  <b>[Instagram](https://www.instagram.com/presicion26/)
- -  <b>[My Content Creation Site](https://contentlogicdynamics.tech/)
+ -  <b>[Instagram](https://www.instagram.com/presicion48/)
+   
  <br />
  <br />
 
