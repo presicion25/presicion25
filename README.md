@@ -8,7 +8,7 @@
  -  <b>[LinkedIn](https://www.linkedin.com/in/louisperez1978/)
  -  <b>[X](https://x.com/presicion24)
  -  <b>[Instagram](https://www.instagram.com/presicion48/)
- -  <b>[Skool]([https://www.instagram.com/presicion48/](https://www.skool.com/simple-content-collective-3799/about)
+ -  <b>[Skool]([https://www.instagram.com/presicion48/](https://www.skool.com/simple-content-collective-3799/about/)
    
  <br />
  <br />
