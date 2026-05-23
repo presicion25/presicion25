@@ -14,7 +14,7 @@
  <br />
 
 
-<h2>🤖 Automation Projects (More to Come.......)</h2>
+<h2>🤖 (Some) Automation Projects</h2>
 
 - [Hiring Workflow Automation - n8n](https://github.com/presicion25/hiring-workflow)
 
