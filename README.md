@@ -14,7 +14,7 @@
  <br />
 
 
-<h2>🤖 Claude Projects (Ongoing......</h2>
+<h2>🤖 Claude Projects (Ongoing......)</h2>
 
 - <b>[Claude Creator Ops](https://github.com/presicion25/claude-creator-ops)
 
