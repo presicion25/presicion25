@@ -16,6 +16,7 @@
 
 <h2>🤖 Claude Projects (Ongoing......)</h2>
 
+- <b>[Novel Genesis](https://github.com/presicion25/novel-genesis)
 - <b>[Claude Creator Ops](https://github.com/presicion25/claude-creator-ops)
 - <b>[Budget Dashboard](https://github.com/presicion25/budget-dashboard)
 - <b>[Habit Tracker](https://github.com/presicion25/habit-tracker)
