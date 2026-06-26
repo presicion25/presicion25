@@ -21,7 +21,7 @@
 - <b>[Budget Dashboard](https://github.com/presicion25/budget-dashboard)
 - <b>[Habit Tracker](https://github.com/presicion25/habit-tracker)
 - <b>[Content Prompt Agent](https://github.com/presicion25/prompt-agent)
-- <b>[Content Calendar Builder](https://presicion25.github.io/content-calendar-builder/)
+- <b>[Content Calendar Builder](https://github.com/presicion25/content-calendar-builder)
 
 
  <br />
