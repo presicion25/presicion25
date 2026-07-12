@@ -22,6 +22,7 @@
 - <b>[Habit Tracker](https://github.com/presicion25/habit-tracker)
 - <b>[Content Prompt Agent](https://github.com/presicion25/prompt-agent)
 - <b>[Content Calendar Builder](https://github.com/presicion25/content-calendar-builder)
+- <b>[Youtube Repurposer Skill](https://github.com/presicion25/youtube-repurposer-skill)
 
 
  <br />
