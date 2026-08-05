@@ -1,7 +1,7 @@
 
 ![Content Logic Dynamics](https://github.com/user-attachments/assets/2eaee7ff-3704-4311-b019-53acb73794a5)
 
-<h2>Hello I'm Louis, a Claude and content creation enthusiast. I help coaches go from overwhelmed to confident, using Claude to create content faster and easier. </h2>
+<h2>Hello I'm Louis, a Claude educator and specialist. I help coaches go from overwhelmed to confident, using Claude to create content faster and easier. </h2>
 
 <h2>🤳 Connect with Me 
 
