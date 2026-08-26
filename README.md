@@ -9,6 +9,7 @@
  -  <b>[X](https://x.com/presicion24)
  -  <b>[Instagram](https://www.instagram.com/presicion48/)
  -  <b>[Skool](https://www.skool.com/simple-content-collective-3799/about/)
+ -  <b>[Tiktok](https://www.tiktok.com/@presicion24)
    
  <br />
  <br />
