@@ -2,7 +2,7 @@
 <img width="1720" height="914" alt="CLDGithubCover" src="https://github.com/user-attachments/assets/72033be8-922c-431e-8014-174153521f9a" />
 
 
-<h2>Hello I'm Louis, a Claude educator and specialist.</h2>
+<h2>Hello I'm Louis, an AI educator and  Claude specialist.</h2>
 
 <h2>🤳 Connect with Me 
 
